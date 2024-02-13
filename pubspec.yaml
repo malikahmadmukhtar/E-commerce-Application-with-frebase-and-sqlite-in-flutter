@@ -1,0 +1,48 @@
+name: storeapp
+description: storeapp
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.23.0
+  cloud_firestore: ^4.13.2
+  firebase_storage: ^11.5.3
+  fluttertoast:
+  path: ^1.8.0
+  sqflite: ^2.0.0+4
+  badges: ^3.1.2
+  google_nav_bar: ^5.0.6
+  url_launcher: ^6.2.3
+  loading_animation_widget:
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
