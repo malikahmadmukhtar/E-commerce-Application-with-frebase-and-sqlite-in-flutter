@@ -119,7 +119,7 @@ class About extends StatelessWidget {
                     ),
                     GestureDetector(
                       onTap: () {
-                        var url = Uri.parse("https://wa.me/+923462369945");
+                        var url = Uri.parse("https://wa.me/");//add your number here
                         launchUrl(url);
                       },
                       child: Image.asset(
