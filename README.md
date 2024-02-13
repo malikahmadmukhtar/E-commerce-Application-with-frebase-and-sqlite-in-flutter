@@ -60,7 +60,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/malikahmadmukhtar/E-commerce-Application-with-frebase-and-sqlite-in-flutter.git
    
 2. Add google-srvices.json to the android/app directory and run
 
