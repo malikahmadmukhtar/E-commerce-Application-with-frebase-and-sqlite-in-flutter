@@ -1,7 +1,8 @@
 # E Commerce Application made using firebase and Sqlite 
 - Intro
 
-![giff](https://github.com/malikahmadmukhtar/E-commerce-Application-with-frebase-and-sqlite-in-flutter/assets/158511475/329a0494-24b8-4c3c-a286-3816d6bc8dc1)
+  <img src="https://github.com/malikahmadmukhtar/E-commerce-Application-with-frebase-and-sqlite-in-flutter/assets/158511475/329a0494-24b8-4c3c-a286-3816d6bc8dc1" width="400" />
+
 
 ### Note: This app uses sqlite for user login and signup so the firebase data had issues it is updated with a new application.
 
